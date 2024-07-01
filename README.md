@@ -10,3 +10,8 @@ Version: v0.7.0-f7c03db-win64
 3. Update submodule: **_git submodule update_**
 4. Add submodule: **_git add .gitmodules Assets/StreamingAssets/IfcConvert_**
 5. Commit changes: **_git commit -m "Add IfcConvert submodule"_**
+
+## Get latest package
+1. Go to: https://s3.amazonaws.com/ifcopenshell-builds/
+2. Go at the end of the page
+3. Copy Key for interested package and add it to the url in step 1
